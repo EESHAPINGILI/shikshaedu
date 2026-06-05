@@ -1,12 +1,12 @@
 # shikshaedu
 
-**• Data Analysis : Performed data cleaning and preprocessing using Pandas and
-NumPy to ensure data accuracy
+• Data Analysis : Performed data cleaning and preprocessing using Pandas and
+NumPy to ensure data accuracy.
 • Exploratory Data Analysis : Conducted EDA to identify trends, correlations,
-and patterns in datasets
+and patterns in datasets.
 • Data Visualization : Built visual reports using Matplotlib and Seaborn for insight
-generation
+generation.
 • Statistical Analysis : Applied statistical techniques to support data-driven
-conclusions
+conclusions.
 • Web Scraping : Extracted real-time data using Python libraries such as
-BeautifulSoup and Requests for analysis**
+BeautifulSoup and Requests for analysis.
